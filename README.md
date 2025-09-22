@@ -2,8 +2,8 @@
 
 Before reviewing this work in detail, please take a moment to read this text file first!
 
-This folder contains four python scripts, one CSV file, one PDF file and three subfolders.
-You ONLY need to run main.py to replicate the whole procedure, generate the clean data and produce all the figures.
+This folder contains four python scripts, one CSV file, and three subfolders.
+You **ONLY** need to run main.py to replicate the whole procedure, generate the clean data and produce all the figures.
 Below is the description of each file.
 
 ## 1 *Raw Data*
@@ -15,14 +15,15 @@ and place the corresponding folders into this subfolder.
 ## 2 *Figure*
 This subfolder is the output directory where all generated figures will be saved.
 Simply run main.py to produce and export all the figures into this folder.
+TeX are complied using Overleaf.
 
 ## 3 *cb_2018_us_state_20m*
 This subfolder contains the U.S. shapefile used for visualizing data on maps with state boundaries.
 The shapefile source is from the Census Bureau: https://www2.census.gov/geo/tiger/GENZ2018/shp/cb_2018_us_state_20m.zip.
 
 ## 4 *main.py*
-This is the main script that processes the raw data to produce the cleaned dataset and all figures featured in Memo.pdf, 
-utilizing the three Python class files described above. 
+This is the main script that processes the raw data to produce the cleaned data and all results in folder *Figure*, 
+utilizing the three Python scripts described below. 
 You can adjust the coefficients within this script to generate different results. 
 This is the only Python script you need to run to generate the results.
 
