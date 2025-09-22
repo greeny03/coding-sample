@@ -8,8 +8,7 @@ Below is the description of each file.
 
 1. Raw Data
 This is the subfolder that contains all the raw data and variable dictionary downloaded from U.S. Department of Education website (https://nces.ed.gov/ipeds/).
-Data "Directory Information" and "Student Financial Aid and Net Price" from academic year 2010-11 to 2015-16 is already in this folder.
-It includes the "Directory Information" and "Student Financial Aid and Net Price" datasets for the academic years 2010–11 to 2015–16.
+Data "Directory Information" and "Student Financial Aid and Net Price" from academic year 2010-11 and 2011-12 are provided in this repository.
 If you wish to extend the time range of your analysis, simply download the data for additional academic years from the website 
 and place the corresponding folders into this subfolder.
 
