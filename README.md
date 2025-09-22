@@ -18,7 +18,7 @@ Simply run main.py to produce and export all the figures into this folder.
 
 3. cb_2018_us_state_20m
 This subfolder contains the U.S. shapefile used for visualizing data on maps with state boundaries.
-The shapefile source is: https://www2.census.gov/geo/tiger/GENZ2018/shp/cb_2018_us_state_20m.zip.
+The shapefile source is from the Census Bureau: https://www2.census.gov/geo/tiger/GENZ2018/shp/cb_2018_us_state_20m.zip.
 
 4. DataProcessor.py
 This python file contains the DataProcessor class that loads, cleans, and exports panel data 
